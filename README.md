@@ -2,6 +2,7 @@
  <img alt="Introduction picture for Lucas's profile" src="https://luk-production.fr/public/assets/img/github/profile_picture.png">
 </picture>
 
+<i>I am from Earth</i>
 
 <!--
 **lucasporrini/lucasporrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
