@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <picture>
  <img alt="Introduction picture for Lucas's profile" src="https://luk-production.fr/public/assets/img/github/profile_picture.png">
 </picture>
