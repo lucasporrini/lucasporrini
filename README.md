@@ -19,7 +19,7 @@ It's me, Lucas Porrini. You've probably never heard of me. And I've never though
 
 ## How to reach me ?
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![LinkedIn]([https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))]([https://nodejs.org/](https://www.linkedin.com/in/lucas-digital/))
 
 <!--
 **lucasporrini/lucasporrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
