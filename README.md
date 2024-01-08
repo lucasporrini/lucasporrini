@@ -16,7 +16,7 @@ It's me, Lucas Porrini. You've probably never heard of me. And I've never though
 
 ## How to reach me ?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-digital/)
+[![LinkedIn](https://img.shields.io/badge/any_text-you_like-blue)(https://www.linkedin.com/in/lucas-digital/)
 [![Website](https://img.shields.io/website)](http://monsite.com)
 
 <!--
