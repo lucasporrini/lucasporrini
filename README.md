@@ -6,7 +6,7 @@ It's me, Lucas Porrini. You've probably never heard of me. And I've never though
 
 ---
 
-## 🧑🏻‍💻 About me
+### 🧑🏻‍💻 About me
 
 - 🔭 I'm currently working on a project involving video calls and a payment process to enable people in specific professions to interact in a new way
 - 🌱 I'm currently learning Linux, web security and server configuration to be able to host my own sites and databases
