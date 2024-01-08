@@ -17,7 +17,7 @@ It's me, Lucas Porrini. You've probably never heard of me. And I've never though
 ## How to reach me ?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-digital/)
-[![Website](https://img.shields.io/badge/website-up-down-green-red/http/monsite.com.svg)](http://monsite.com)
+[![Website](https://img.shields.io/website)](http://monsite.com)
 
 <!--
 **lucasporrini/lucasporrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
