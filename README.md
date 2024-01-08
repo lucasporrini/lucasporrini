@@ -11,9 +11,6 @@ It's me, Lucas Porrini. You've probably never heard of me. And I've never though
 - 🔭 I'm currently working on a project involving video calls and a payment process to enable people in specific professions to interact in a new way
 - 🌱 I'm currently learning Linux, web security and server configuration to be able to host my own sites and databases
 - 👯 I'm looking to collaborate on web projects with companies to provide them with personality solutions that correspond exactly to their needs
-- 🤔 I'm looking for help to integrate Typescript into my projects
-- 💬 Ask me about  php, conception, databases, use cases and natives web langages
-- ⚡ Fun fact: I'm a bit stubborn
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-lucas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-digital/)
 
 
