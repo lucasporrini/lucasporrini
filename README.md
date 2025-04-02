@@ -13,7 +13,7 @@ I'm a passionate full-stack developer with expertise in modern web and mobile te
 - **Backend & APIs**: Node.js, Convex, Supabase Realtime, PostgreSQL
 - **Payments & Auth**: Stripe, GoCardless, Better Auth
 - **DevOps & CI/CD**: GitLab Pipelines, Vercel Flags, Monorepo (Turborepo)
-- **Open Source Packages**: -onboarding manager, URL shortener package
+- **Open Source Packages**: Onboarding manager, contributing to an open source react component library
 
 ## 🔥 Notable Projects
 - **[My_Agency_Website](https://porrini.fr)** – My agency's website 🌐
