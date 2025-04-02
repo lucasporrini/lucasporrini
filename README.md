@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Lucas]!
+# 👋 Hey, I'm Lucas !
 
 🚀 Full-Stack Developer | Open Source Enthusiast | Tech Innovator
 
