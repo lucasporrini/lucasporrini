@@ -16,7 +16,7 @@ I'm a passionate full-stack developer with expertise in modern web and mobile te
 - **Open Source Packages**: Onboarding manager, contributing to an open source react component library
 
 ## 🔥 Notable Projects
-- **[My_Agency_Website](https://porrini.fr)** – My agency's website 🌐
+- **[My Agency Website](https://porrini.fr)** – My agency's website 🌐
 - **[Cine-App Electron](https://github.com/lucasporrini/electron-next-cine-app)** – A Next.js & Electron movie management platform to test technologies 🎬
 - **[Homiq](https://homiq.fr)** – A web application for real estate professionals in France 🏡
 - **[OnBoarder](https://github.com/lucasporrini/onboarder)** – A package for developers to make on-boarding simple and efficient 📈
