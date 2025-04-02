@@ -1,18 +1,31 @@
-It's me, Lucas Porrini. You've probably never heard of me. And I've never thought of writing a README.md for myself. Usually READMEs are writing for application and software. I'm not an application. And I'm not a software too. So this README is about me, I hope you'll enjoy to discover me by reading it.
+# 👋 Hey, I'm [Lucas]!
 
----
+🚀 Full-Stack Developer | Open Source Enthusiast | Tech Innovator
 
-### 🧑🏻‍💻 About me
+## About Me
+I'm a passionate full-stack developer with expertise in modern web and mobile technologies. I thrive on building scalable applications, optimizing performance, and crafting seamless user experiences. My work spans across **Next.js, React Native, Prisma, Supabase, Expo, Electron, TypeScript, and more**.
 
-- 🔭 I'm currently working on a project involving video calls and a payment process to enable people in specific professions to interact in a new way
-- 🌱 I'm currently learning Linux, web security and server configuration to be able to host my own sites and databases
-- 👯 I'm looking to collaborate on web projects with companies to provide them with personality solutions that correspond exactly to their needs
-- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-lucas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-digital/)
+💡 I love solving complex problems and creating intuitive solutions, whether it's an **interactive onboarding system, a powerful URL shortener, or a real-time chat application**.
 
+## What I Build
+- **Web Applications**: Next.js, App Router, Vercel, Supabase, Prisma
+- **Mobile Apps**: React Native, Expo, Parallax UI, Magnus UI
+- **Backend & APIs**: Node.js, Convex, Supabase Realtime, PostgreSQL
+- **Payments & Auth**: Stripe, GoCardless, Better Auth
+- **DevOps & CI/CD**: GitLab Pipelines, Vercel Flags, Monorepo (Turborepo)
+- **Open Source Packages**: -onboarding manager, URL shortener package
 
----
+## 🔥 Notable Projects
+- **[My_Agency_Website](https://porrini.fr)** – My agency's website 🌐
+- **[Cine-App Electron](https://github.com/lucasporrini/electron-next-cine-app)** – A Next.js & Electron movie management platform to test technologies 🎬
+- **[Homiq](https://homiq.fr)** – A web application for real estate professionals in France 🏡
+- **[OnBoarder](https://github.com/lucasporrini/onboarder)** – A package for developers to make on-boarding simple and efficient 📈
+- **[Focus mode](https://github.com/lucasporrini/focus-mode)** - A google chrome extension for managing distractions and increasing focus 🧠
 
-### 🛠 &nbsp;Languages and Tools :
+## Open Source & Community
+I contribute to open-source projects, experiment with new technologies, and share my knowledge through GitHub, blog posts, and discussions. I'm always eager to collaborate, so feel free to reach out!
+
+## 🛠 &nbsp;Languages and Tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
@@ -40,14 +53,14 @@ It's me, Lucas Porrini. You've probably never heard of me. And I've never though
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 </p>
 
----
-
-### 🔥 &nbsp; My Stats :
+## 🔥 &nbsp; My Stats :
 [comment]: <[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasporrini&theme=dark&background=000000)](https://git.io/streak-stats)>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasporrini&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+💬 **Let’s Connect**: [LinkedIn](https://www.linkedin.com/in/lucas-porrini/) | [Website](https://porrini.fr)
+
+⚡ **Let's build something amazing together!**
 
 <!--
 **lucasporrini/lucasporrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
