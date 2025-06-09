@@ -45,9 +45,7 @@
 </div>
 
 ## 👨‍💻 About Me
-I'm a passionate full-stack developer with expertise in modern web and mobile technologies. I thrive on building scalable applications, optimizing performance, and crafting seamless user experiences. My work spans across **Next.js, React Native, Prisma, Supabase, Expo, Electron, TypeScript, and more**.
-
-💡 I love solving complex problems and creating intuitive solutions, whether it's an **interactive onboarding system, a powerful URL shortener, or a real-time chat application**.
+I'm a passionate full-stack developer with expertise in modern web and mobile technologies. I thrive on building scalable applications, optimizing performance, and crafting seamless user experiences. My work spans across **Next.js, React Native, Prisma, Supabase, Expo, TypeScript, and more**.
 
 ## 🏢 What I Build
 - **Web Applications**: Next.js, Vercel, TypeScript, Supabase, Prisma, NeonDB
