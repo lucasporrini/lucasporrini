@@ -65,7 +65,7 @@ I'm a passionate full-stack developer with expertise in modern web and mobile te
 
 ## Open Source & Community
 
-- **[Enhance your onboarding easly]**(https://www.npmjs.com/package/onboarder)
+- **[Enhance your onboarding easly](https://www.npmjs.com/package/onboarder)**
 
 💬 **Let’s Connect**: [LinkedIn](https://www.linkedin.com/in/lucas-porrini/) | [Website](https://porrini.fr)
 
