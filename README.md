@@ -1,7 +1,7 @@
 <img src="https://github.com/lucasporrini/lucasporrini/blob/main/github.png" alt="Banner of a developer sitting in front of a desk">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=141414&duration=4000&lines=Hi+There!+👋;+I'm+Lucas+Porrini!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=500&height=70&color=141414&duration=4000&lines=Hi+There!+👋;+I'm+Lucas+Porrini!;" />
 </h1>
 🚀 Full-Stack Developer | Open Source Enthusiast | Tech Innovator
 
