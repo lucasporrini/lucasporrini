@@ -46,19 +46,6 @@
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasporrini&theme=transparent&layout=donut&hide=less,css,scss,html,sass&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Lucas's Most Used Languages" />
 </div>
 
-
-## 🐍 My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasporrini/lucasporrini/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasporrini/lucasporrini/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/lucasporrini/lucasporrini/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<hr>
-
 ## About Me
 I'm a passionate full-stack developer with expertise in modern web and mobile technologies. I thrive on building scalable applications, optimizing performance, and crafting seamless user experiences. My work spans across **Next.js, React Native, Prisma, Supabase, Expo, Electron, TypeScript, and more**.
 
@@ -73,6 +60,7 @@ I'm a passionate full-stack developer with expertise in modern web and mobile te
 - **Open Source Packages**: Onboarding manager, contributing to an open source react component library
 
 ## 🔥 Notable Projects
+
 - **[My Agency Website](https://porrini.fr)** – My agency's website 🌐
 - **[Cine-App Electron](https://github.com/lucasporrini/electron-next-cine-app)** – A Next.js & Electron movie management platform to test technologies 🎬
 - **[Homiq](https://homiq.fr)** – A web application for real estate professionals in France 🏡
@@ -80,11 +68,8 @@ I'm a passionate full-stack developer with expertise in modern web and mobile te
 - **[Focus mode](https://github.com/lucasporrini/focus-mode)** - A google chrome extension for managing distractions and increasing focus 🧠
 
 ## Open Source & Community
-I contribute to open-source projects, experiment with new technologies, and share my knowledge through GitHub, blog posts, and discussions. I'm always eager to collaborate, so feel free to reach out!
 
-## 🛠 &nbsp;Languages and Tools :
-
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,vercel,nodejs,express,tailwind,prisma,postgresql,mysql,supabase,py,postman,linux,figma,jest,cypress,github,gitlab,git)](https://portfolio.porrini.fr)
+- **[Enhance your onboarding easly]**(https://www.npmjs.com/package/onboarder)
 
 💬 **Let’s Connect**: [LinkedIn](https://www.linkedin.com/in/lucas-porrini/) | [Website](https://porrini.fr)
 
