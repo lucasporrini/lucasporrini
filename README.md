@@ -8,10 +8,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=500&height=70&color=141414&duration=4000&lines=Hi+There!+👋;+I'm+Lucas+Porrini!;" />
 </h1>
-🚀 Full-Stack Developer | Open Source Enthusiast | Tech Innovator
 
+### 🚀 Full-stack developer passionate about creating beautiful, functional, user-centric web applications.
 
-
+- 🌱 I’m currently learning **[Blockchain development]([https://roadmap.sh/system-design](https://roadmap.sh/blockchain))**
+- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/ChijiokeOkorji/ChijiokeOkorji/issues)**
+- 
 <br>
 
 <div align=center>
