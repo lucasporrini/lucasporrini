@@ -50,12 +50,11 @@ I'm a passionate full-stack developer with expertise in modern web and mobile te
 💡 I love solving complex problems and creating intuitive solutions, whether it's an **interactive onboarding system, a powerful URL shortener, or a real-time chat application**.
 
 ## What I Build
-- **Web Applications**: Next.js, App Router, Vercel, Supabase, Prisma
-- **Mobile Apps**: React Native, Expo, Parallax UI, Magnus UI
-- **Backend & APIs**: Node.js, Convex, Supabase Realtime, PostgreSQL
-- **Payments & Auth**: Stripe, GoCardless, Better Auth
+- **Web Applications**: Next.js, Vercel, TypeScript, Supabase, Prisma, NeonDB
+- **Mobile Apps**: React Native, Expo, Gluestack
+- **Backend & APIs**: Node.js, Supabase Realtime, PostgreSQL, Python
+- **Payments & Auth**: Stripe, Better Auth, Nextauth
 - **DevOps & CI/CD**: GitLab Pipelines, Vercel Flags, Monorepo (Turborepo)
-- **Open Source Packages**: Onboarding manager, contributing to an open source react component library
 
 ## 🔥 Notable Projects
 
