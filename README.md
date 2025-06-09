@@ -61,8 +61,7 @@ I'm a passionate full-stack developer with expertise in modern web and mobile te
 - **[My Agency Website](https://porrini.fr)** – My agency's website 🌐
 - **[Cine-App Electron](https://github.com/lucasporrini/electron-next-cine-app)** – A Next.js & Electron movie management platform to test technologies 🎬
 - **[Homiq](https://homiq.fr)** – A web application for real estate professionals in France 🏡
-- **[OnBoarder](https://github.com/lucasporrini/onboarder)** – A package for developers to make on-boarding simple and efficient 📈
-- **[Focus mode](https://github.com/lucasporrini/focus-mode)** - A google chrome extension for managing distractions and increasing focus 🧠
+- **[SAS-Homiq]**(https://github.com/SAS-Homiq) - An organization to centralized all my company's projects 💾
 
 ## Open Source & Community
 
