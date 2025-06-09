@@ -44,12 +44,12 @@
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasporrini&theme=transparent&layout=donut&hide=less,css,scss,html,sass&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Lucas's Most Used Languages" />
 </div>
 
-## About Me
+## 👨‍💻 About Me
 I'm a passionate full-stack developer with expertise in modern web and mobile technologies. I thrive on building scalable applications, optimizing performance, and crafting seamless user experiences. My work spans across **Next.js, React Native, Prisma, Supabase, Expo, Electron, TypeScript, and more**.
 
 💡 I love solving complex problems and creating intuitive solutions, whether it's an **interactive onboarding system, a powerful URL shortener, or a real-time chat application**.
 
-## What I Build
+## 🏢 What I Build
 - **Web Applications**: Next.js, Vercel, TypeScript, Supabase, Prisma, NeonDB
 - **Mobile Apps**: React Native, Expo, Gluestack
 - **Backend & APIs**: Node.js, Supabase Realtime, PostgreSQL, Python
@@ -63,7 +63,7 @@ I'm a passionate full-stack developer with expertise in modern web and mobile te
 - **[Homiq](https://homiq.fr)** – A web application for real estate professionals in France 🏡
 - **[SAS-Homiq](https://github.com/SAS-Homiq)** - An organization to centralized all my company's projects 💾
 
-## Open Source & Community
+## 🏘️ Open Source & Community
 
 - **[Enhance your onboarding easly](https://www.npmjs.com/package/onboarder)**
 
