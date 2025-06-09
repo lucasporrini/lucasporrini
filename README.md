@@ -53,6 +53,8 @@ I contribute to open-source projects, experiment with new technologies, and shar
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 ## 🔥 &nbsp; My Stats :
 [comment]: <[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasporrini&theme=dark&background=000000)](https://git.io/streak-stats)>
 
