@@ -11,8 +11,8 @@
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=lucasporrini&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="lucasporrini's GitHub Stats" />
-  <img width=390 src="[https://github-readme-streak-stats.herokuapp.com/?user=lucasporrini&theme=transparent&count_private=true&border_radius=10&locale=en](https://github-readme-streak-stats.herokuapp.com/?user=lucasporrini&theme=telegram&count_private=true&border_radius=10&locale=en)" alt="lucasporrini's" />
-  <img width=325 src="[https://github-readme-stats.vercel.app/api/top-langs?username=lucasporrini&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api/top-langs?username=lucasporrini&theme=transparent&layout=donut&hide=less,css,scss,html,sass&langs_count=8&border_radius=10&show_icons=true&locale=en)" alt="lucasporrini's Most Used Languages" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=lucasporrini&theme=transparent&count_private=true&border_radius=10&locale=en" alt="lucasporrini's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasporrini&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="lucasporrini's Most Used Languages" />
 </div>
 
 ## About Me
