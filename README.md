@@ -2,6 +2,11 @@
 
 🚀 Full-Stack Developer | Open Source Enthusiast | Tech Innovator
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
+
 ## About Me
 I'm a passionate full-stack developer with expertise in modern web and mobile technologies. I thrive on building scalable applications, optimizing performance, and crafting seamless user experiences. My work spans across **Next.js, React Native, Prisma, Supabase, Expo, Electron, TypeScript, and more**.
 
