@@ -27,7 +27,7 @@ I contribute to open-source projects, experiment with new technologies, and shar
 
 ## 🛠 &nbsp;Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,vercel,nodejs,express,tailwind,prisma,postgresql,mysql,supabase,py,postman,docker,linux,figma,npm,pnpm,solidity,flutter,php,html,css,jest,cypress,github,gitlab,git)](https://portfolio.porrini.fr)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,vercel,nodejs,express,tailwind,prisma,postgresql,mysql,supabase,py,postman,linux,figma,jest,cypress,github,gitlab,git)](https://portfolio.porrini.fr)
 
 ## 🔥 &nbsp; My Stats :
 [comment]: <[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasporrini&theme=dark&background=000000)](https://git.io/streak-stats)>
