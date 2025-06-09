@@ -1,5 +1,7 @@
 # 👋 Hey, I'm Lucas !
 
+<img src="https://github.com/lucasporrini/lucasporrini/blob/main/github.png" alt="Banner of a developer sitting in front of a desk">
+
 🚀 Full-Stack Developer | Open Source Enthusiast | Tech Innovator
 
 <div align="center"> 
