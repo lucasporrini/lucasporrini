@@ -29,11 +29,6 @@ I contribute to open-source projects, experiment with new technologies, and shar
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,vercel,nodejs,express,tailwind,prisma,postgresql,mysql,supabase,py,postman,linux,figma,jest,cypress,github,gitlab,git)](https://portfolio.porrini.fr)
 
-## 🔥 &nbsp; My Stats :
-[comment]: <[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasporrini&theme=dark&background=000000)](https://git.io/streak-stats)>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasporrini&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 💬 **Let’s Connect**: [LinkedIn](https://www.linkedin.com/in/lucas-porrini/) | [Website](https://porrini.fr)
 
 ⚡ **Let's build something amazing together!**
