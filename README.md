@@ -47,23 +47,11 @@
 ## 👨‍💻 About Me
 I'm a passionate full-stack developer with expertise in modern web and mobile technologies. I thrive on building scalable applications, optimizing performance, and crafting seamless user experiences. My work spans across **Next.js, React Native, Prisma, Supabase, Expo, TypeScript, and more**.
 
-## 🏢 What I Build
-- **Web Applications**: Next.js, Vercel, TypeScript, Supabase, Prisma, NeonDB
-- **Mobile Apps**: React Native, Expo, Gluestack
-- **Backend & APIs**: Node.js, Supabase Realtime, PostgreSQL, Python
-- **Payments & Auth**: Stripe, Better Auth, Nextauth
-- **DevOps & CI/CD**: GitLab Pipelines, Vercel Flags, Monorepo (Turborepo)
-
-## 🔥 Notable Projects
-
-- **[My Agency Website](https://porrini.fr)** – My agency's website 🌐
-- **[Cine-App Electron](https://github.com/lucasporrini/electron-next-cine-app)** – A Next.js & Electron movie management platform to test technologies 🎬
-- **[Homiq](https://homiq.fr)** – A web application for real estate professionals in France 🏡
-- **[SAS-Homiq](https://github.com/SAS-Homiq)** - An organization to centralized all my company's projects 💾
-
 ## 🏘️ Open Source & Community
 
 - **[Enhance your onboarding easly](https://www.npmjs.com/package/onboarder)**
+- **[Improved some Shadcn components](https://github.com/shadcn-ui/ui)**
+- **[Enhance zod typing](https://github.com/colinhacks/zod)**
 
 💬 **Let’s Connect**: [LinkedIn](https://www.linkedin.com/in/lucas-porrini/) | [Website](https://porrini.fr)
 
