@@ -6,7 +6,7 @@
 
 ### 🚀 Full-stack developer passionate about creating beautiful, functional, user-centric web applications.
 
-- 🌱 I’m currently learning **[Blockchain development](https://roadmap.sh/blockchain)**
+- 🌱 I’m currently improving my **[UX/UI Design](https://roadmap.sh/ux-design)** skills
 - 💬 Ask me about **Typescript, JavaScript, Node.js, React...or anything [here](https://github.com/lucasporrini/lucasporrini/issues)**
 
 <div align="center">
